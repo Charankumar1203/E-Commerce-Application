@@ -1,0 +1,11 @@
+toy1-100-100
+androidphone-20-10000
+iphone-10-40000
+laptop-15-60000
+macbook-10-100000
+trimmer-200-200
+bed-20-10000
+bat-300-700
+ball-1000-40
+earphones-1000-400
+charger-200-300
